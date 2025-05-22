@@ -4,7 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharidinesha&label=Profile%20views&color=0e75b6&style=flat" alt="tharidinesha" /> </p>
 
-- 🔭 I’m currently working on [my projects](https://github.com/ThariDinesha)
 
 - 🌱 I’m currently learning **Springboot**
 
